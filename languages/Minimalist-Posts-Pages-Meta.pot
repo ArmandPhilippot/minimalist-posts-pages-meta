@@ -1,0 +1,134 @@
+# Copyright (C) 2020 Minimalist-Posts-Pages-Meta
+# This file is distributed under the same license as the Minimalist-Posts-Pages-Meta package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Minimalist-Posts-Pages-Meta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Armand Philippot <contact@armandphilippot.com>\n"
+"Last-Translator: Armand Philippot <contact@armandphilippot.com>\n"
+"Report-Msgid-Bugs-To: https://github.com/ArmandPhilippot/minimalist-posts-pages-meta/issues\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: class-minimalist-posts-pages-meta.php:65
+msgid "Display posts & pages metadata as a widget."
+msgstr ""
+
+#: class-minimalist-posts-pages-meta.php:69
+msgid "Posts & Pages Meta"
+msgstr ""
+
+#: class-minimalist-posts-pages-meta.php:90
+msgid "Metadata"
+msgstr ""
+
+#: class-minimalist-posts-pages-meta.php:135, class-minimalist-posts-pages-meta.php:209
+msgid "Published on"
+msgstr ""
+
+#: class-minimalist-posts-pages-meta.php:138, class-minimalist-posts-pages-meta.php:212
+msgid "Updated on"
+msgstr ""
+
+#: class-minimalist-posts-pages-meta.php:141, class-minimalist-posts-pages-meta.php:215
+msgid "Reading estimated at"
+msgstr ""
+
+#. translators: %s Number.
+#. translators: %s Number.
+#: class-minimalist-posts-pages-meta.php:144, class-minimalist-posts-pages-meta.php:218
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-minimalist-posts-pages-meta.php:151, class-minimalist-posts-pages-meta.php:225
+msgid "By"
+msgstr ""
+
+#. translators: %s Category or categories name.
+#: class-minimalist-posts-pages-meta.php:165
+msgid "Category: %s"
+msgid_plural "Categories: %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s Tag or tags name.
+#: class-minimalist-posts-pages-meta.php:177
+msgid "Tag: %s"
+msgid_plural "Tags: %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: Display when 0 comments.
+#: class-minimalist-posts-pages-meta.php:188, class-minimalist-posts-pages-meta.php:236
+msgid "Leave a comment"
+msgstr ""
+
+#. translators: Display when 1 comment.
+#: class-minimalist-posts-pages-meta.php:190, class-minimalist-posts-pages-meta.php:236
+msgid "1 comment"
+msgstr ""
+
+#. translators: %s Number of comments.
+#: class-minimalist-posts-pages-meta.php:192, class-minimalist-posts-pages-meta.php:236
+msgid "% comments"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:33
+msgid "Title:"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:41
+msgid "Display on:"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:43
+msgid "Posts"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:47
+msgid "Pages"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:52
+msgid "Options to display:"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:57
+msgid "Display publication date"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:62
+msgid "Display update date (if different from publication date)"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:67
+msgid "Display the author"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:72
+msgid "Display the author page link"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:77
+msgid "Display reading time"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:82
+msgid "Display categories (posts only)"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:87
+msgid "Display tags (posts only)"
+msgstr ""
+
+#: partials/minimalist-posts-pages-meta-admin.php:92
+msgid "Display comments number & link"
+msgstr ""
